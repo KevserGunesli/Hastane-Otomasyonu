@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|c:\\users\\hp\\desktop\\hastane otomasyonu\\hastane otomasyonu\\hastane otomasyonu\\hastane otomasyonu\\hastanode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|solutionrelative:hastane otomasyonu\\hastanode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\hastane otomasyonu\\hastalinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|solutionrelative:hastane otomasyonu\\hastalinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\hastane otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|solutionrelative:hastane otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\hastane otomasyonu\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|solutionrelative:hastane otomasyonu\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\hastane otomasyonu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|solutionrelative:hastane otomasyonu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\hastane otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC5B6700-9B07-412D-8B39-06F404628626}|Hastane Otomasyonu\\Hastane Otomasyonu.csproj|solutionrelative:hastane otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HastaLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\HastaLinkedList.cs",
+              "RelativeDocumentMoniker": "Hastane Otomasyonu\\HastaLinkedList.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\HastaLinkedList.cs",
+              "RelativeToolTip": "Hastane Otomasyonu\\HastaLinkedList.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:23:49.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HastaNode.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\HastaNode.cs",
+              "RelativeDocumentMoniker": "Hastane Otomasyonu\\HastaNode.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\HastaNode.cs",
+              "RelativeToolTip": "Hastane Otomasyonu\\HastaNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:23:08.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hasta.cs",
+              "RelativeDocumentMoniker": "Hastane Otomasyonu\\Hasta.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hasta.cs",
+              "RelativeToolTip": "Hastane Otomasyonu\\Hasta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:03:15.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "Hastane Otomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Form1.cs",
+              "RelativeToolTip": "Hastane Otomasyonu\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:44:35.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaxHeap.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\MaxHeap.cs",
+              "RelativeDocumentMoniker": "Hastane Otomasyonu\\MaxHeap.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\MaxHeap.cs",
+              "RelativeToolTip": "Hastane Otomasyonu\\MaxHeap.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwEYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:50:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "Hastane Otomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Hastane Otomasyonu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane Otomasyonu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:56:00.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

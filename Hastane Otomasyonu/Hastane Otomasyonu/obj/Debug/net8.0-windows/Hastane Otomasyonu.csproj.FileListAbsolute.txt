@@ -1,0 +1,48 @@
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.exe
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.deps.json
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.runtimeconfig.json
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.dll
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.pdb
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane_Otomasyonu.Form1.resources
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.AssemblyInfo.cs
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.dll
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\refint\Hastane Otomasyonu.dll
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.pdb
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.genruntimeconfig.cache
+C:\Users\HP\source\repos\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\ref\Hastane Otomasyonu.dll
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.exe
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.deps.json
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.runtimeconfig.json
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.dll
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.pdb
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane_Otomasyonu.Form1.resources
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.AssemblyInfo.cs
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.dll
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\refint\Hastane Otomasyonu.dll
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.pdb
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.genruntimeconfig.cache
+C:\Users\karat\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\ref\Hastane Otomasyonu.dll
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.exe
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.deps.json
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.runtimeconfig.json
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.dll
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\net8.0-windows\Hastane Otomasyonu.pdb
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane_Otomasyonu.Form1.resources
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.AssemblyInfo.cs
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.dll
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\refint\Hastane Otomasyonu.dll
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.pdb
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\Hastane Otomasyonu.genruntimeconfig.cache
+C:\Users\HP\Desktop\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\net8.0-windows\ref\Hastane Otomasyonu.dll
